@@ -1,0 +1,26 @@
+.header {
+    background-color: rgb(214, 233, 252);
+    height: 10vh;
+    margin-top: 0;
+    padding: 0 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerRight{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 3%;
+}
+
+.headerButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+}
+
+.headerButton{
+    background-color: red;
+}
