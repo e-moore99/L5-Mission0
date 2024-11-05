@@ -1,8 +1,6 @@
 import React from 'react'
 import styles from './Header.module.css'
 import Button from '@mui/material/Button';
-import { createTheme } from '@mui/material/styles';
-import { deepPurple, blue } from '@mui/material/colors';
 import cloudPic from "/images/cloud.png"
 
 export default function Header() {
