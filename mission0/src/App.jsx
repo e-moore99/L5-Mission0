@@ -35,7 +35,7 @@ function App() {
       <div className="bodyBox">
         <div className="searchBanner">
           <div className="searchTitle">
-            <h1>All About Clouds</h1></div>
+            <h1 className="mainHeader">All About Clouds</h1></div>
           <div className="searchbarBox">
           <input className="inputBox" type="text" /><Button variant="contained" className="searchButton">Search</Button>
           </div>
