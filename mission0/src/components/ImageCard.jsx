@@ -9,7 +9,7 @@ export default function ImageCard(props) {
         <img src={props.img} alt="cloud" className={styles.cloudImage}/>
     </div>
     <div className={styles.bottomInfoText}>
-        <h4>{props.type}</h4>
+        <h2>{props.type}</h2>
         <p>{props.info}</p>
     </div>
     </div>

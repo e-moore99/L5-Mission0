@@ -45,8 +45,6 @@ function App() {
             <ImageCard key={cloud.id} img={cloud.img} type={cloud.type} info={cloud.info} />
 
           ))}
-    	    {/* <ImageCard /> */}
-          {/* <ImageCard /> */}
         </div>
       </div>
       </div>
