@@ -64,6 +64,11 @@
   height: 30%;
 }
 
+.mainHeader{
+  color: #213547;
+  font-size: 3.2em;
+  line-height: 1.1;
+}
 @media screen and (max-width: 600px){
   .searchbarBox{
     flex-direction: column;
@@ -82,10 +87,4 @@
     gap: 3%;
     padding: 5% 0;
   }
-}
-
-.mainHeader{
-  color: #213547;
-  font-size: 3.2em;
-  line-height: 1.1;
 }
